@@ -1,7 +1,7 @@
 name: dingtalk_robot
 description: Unofficial Dart SDK for Dingtalk Enterprise Robot.
-version: 0.1.1
-repository: https://github.com/djbird2046/dingtalk_bot
+version: 0.1.2
+repository: https://github.com/djbird2046/dingtalk_robot
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
